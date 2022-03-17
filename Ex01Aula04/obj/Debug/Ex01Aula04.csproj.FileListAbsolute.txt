@@ -1,0 +1,12 @@
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\bin\Debug\Ex01Aula04.exe.config
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\bin\Debug\Ex01Aula04.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\bin\Debug\Ex01Aula04.pdb
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.csprojResolveAssemblyReference.cache
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.Form1.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.Properties.Resources.resources
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.csproj.GenerateResource.Cache
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.exe
+c:\users\unisanta\documents\visual studio 2013\Projects\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.pdb
+D:\Ex01Aula04\Ex01Aula04\bin\Debug\Ex01Aula04.exe.config
+D:\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.exe
+D:\Ex01Aula04\Ex01Aula04\obj\Debug\Ex01Aula04.pdb
